@@ -11,8 +11,8 @@ public abstract class MY_View extends AppCompatActivity {
     public Activity activity;
 
     @Override
-    public void onCreate(@Nullable Bundle savedInstanceState, @Nullable PersistableBundle persistentState) {
-        super.onCreate(savedInstanceState, persistentState);
+    public void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
         setContentView(getLayoutResource());
 
         this.activity = MY_View.this;
