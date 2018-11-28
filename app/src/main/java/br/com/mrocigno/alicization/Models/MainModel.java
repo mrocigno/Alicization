@@ -1,4 +1,4 @@
-package br.com.mrocigno.alicization.Main;
+package br.com.mrocigno.alicization.Models;
 
 import br.com.mrocigno.alicization.Config.MY_Model;
 

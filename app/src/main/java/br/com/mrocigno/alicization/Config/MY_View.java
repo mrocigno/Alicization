@@ -8,6 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 
 public abstract class MY_View extends AppCompatActivity {
 
+    public String TAG = "ProjectAlicization";
     public Activity activity;
 
     @Override

@@ -1,5 +1,6 @@
-package br.com.mrocigno.alicization.Main;
+package br.com.mrocigno.alicization.Modules;
 
+import br.com.mrocigno.alicization.Presenters.MainPresenter;
 import dagger.Module;
 import dagger.Provides;
 
